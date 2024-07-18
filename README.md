@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![](https://komarev.com/ghpvc/?username=ajinkyabh2203&abbreviated=true)
+
 <!---
 ajinkyabh2203/ajinkyabh2203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
