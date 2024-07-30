@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajinkya Bhoite!
 
-I'm a frontend web2-web3 developer passionate about integrating AI and Web3 technologies into web apps to create real-world use cases. 🚀
+##### I'm a frontend web2-web3 developer passionate about integrating AI and Web3 technologies into web apps to create real-world use cases. 🚀
 
 ## 🌟 Recent Project
 
