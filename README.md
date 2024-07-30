@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ajinkyabh2203
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Ajinkya Bhoite!
+
+I'm a frontend web2-web3 developer passionate about integrating AI and Web3 technologies into web apps to create real-world use cases. 🚀
+
+## 🌟 Recent Project
+
+### 🎬 [Watchive](https://github.com/ajinkyabh2203/watchive) 
+
+I recently created **Watchive**, an AI-based Movie Recommendation Platform built with ReactJS and Material UI. 📽️✨
+
+Feel free to check it out and let me know what you think! 😊
+
 
 ![](https://komarev.com/ghpvc/?username=ajinkyabh2203&abbreviated=true)
 
