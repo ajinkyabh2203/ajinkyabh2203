@@ -4,7 +4,7 @@ I'm a frontend web2-web3 developer passionate about integrating AI and Web3 tech
 
 ## 🌟 Recent Project
 
-### 🎬 [Watchive](https://github.com/ajinkyabh2203/watchive) 
+### 🎦🍿 [Watchive](https://github.com/ajinkyabh2203/watchive) 
 
 I recently created **Watchive**, an _**AI-based Movie Recommendation Platform**_ built with **ReactJS** and **Material UI**. 📽️✨
 
