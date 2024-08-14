@@ -6,7 +6,7 @@ I'm a frontend web2-web3 developer passionate about building stunning user-frien
 
 ### 🎦🍿 [Watchive](https://github.com/ajinkyabh2203/watchive) 
 
-I recently created **Watchive**, an _**AI-based Movie Recommendation Platform**_ built with **ReactJS** and **Material UI**. 📽️✨
+I recently created **Watchive**, _**Your ultimate movie exploration hub**_ built with **ReactJS** and **Material UI**. 📽️✨
 
 Feel free to check it out and let me know what you think! 😊
 
