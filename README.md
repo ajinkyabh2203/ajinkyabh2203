@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ajinkya Bhoite!👨‍💻
 
-I'm a frontend web2-web3 developer passionate about building stunning user-friendly web apps to create real-world use cases. 🌱🚀
+I'm a data analyst passionate about leveraging data to deliver actionable insights and solve real-world problems. 🌱📊
+
 
 ## 🌟 Recent Project
 
