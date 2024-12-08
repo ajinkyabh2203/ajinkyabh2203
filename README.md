@@ -8,11 +8,8 @@ I'm a frontend web2-web3 developer passionate about building stunning user-frien
 
 I recently created **Watchive**, _**Your ultimate movie exploration hub**_ built with **ReactJS** and **Material UI**. 📽️✨
 
+
 Feel free to check it out and let me know what you think! 😊
-
-## ⚡ Upcoming Project
-
-### ⏳RealitDocs - Collaborative Documentation in Realtime
 
 
 ![](https://komarev.com/ghpvc/?username=ajinkyabh2203&abbreviated=true)
