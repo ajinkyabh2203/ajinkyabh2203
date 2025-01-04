@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajinkya Bhoite!👨‍💻
 
-I'm a data analyst passionate about leveraging data to deliver actionable insights and solve real-world problems. 🌱📊
+I'm a developer passionate about leveraging data to deliver actionable insights and solve real-world problems. 🌱📊
 
 
 ## 🌟 Recent Project
